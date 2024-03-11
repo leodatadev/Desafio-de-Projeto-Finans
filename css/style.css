@@ -27,6 +27,7 @@ footer p a:hover {
 }
 
 .custom-copy {
+  margin-top: 24px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -34,4 +35,5 @@ footer p a:hover {
   padding: 44px 0;
   gap: 24px;
   color: #fff;
+  margin-bottom: 0;
 }
